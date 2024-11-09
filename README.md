@@ -2,7 +2,7 @@
 
 ## Description
 
-**ProjectAnalyzer** is a Node.js CLI tool designed to analyze a project directory. It counts the total number of files, folders, and lines of code, providing a detailed summary of the project structure. The tool supports excluding the `.git` directory and displays the analysis in a user-friendly format, including an ASCII art design for the CLI output.
+**ProjectAnalyzer** is a Node.js CLI tool designed to analyze a project directory. It counts the total number of files, folders, and lines of code, providing a detailed summary of the project structure. The tool supports excluding the `.git` directory and displays the analysis in a user-friendly format for the CLI output.
 
 ## Features
 
