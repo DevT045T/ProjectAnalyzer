@@ -43,12 +43,6 @@ node main.js --path=/path/to/project --exclude-git
 - `--path=/path/to/project`: Specifies the path to the project you want to analyze.
 - `--exclude-git`: Optionally exclude the `.git` directory from the analysis.
 
-### Example Command
-
-```bash
-node main.js --path=/path/to/your/project --exclude-git
-```
-
 ### Example Output
 
 ```bash
