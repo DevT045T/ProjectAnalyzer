@@ -1,4 +1,4 @@
-**# ProjectAnalyzer**
+# ProjectAnalyzer
 
 ## Description
 
