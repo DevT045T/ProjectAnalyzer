@@ -1,0 +1,27 @@
+{
+  "name": "projectanalyzer",
+  "version": "1.0.0",
+  "description": "**# ProjectAnalyzer**",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevT045T/ProjectAnalyzer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevT045T/ProjectAnalyzer/issues"
+  },
+  "homepage": "https://t045t.dev/",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
