@@ -32,15 +32,22 @@ npm install
 
 ## Usage
 
-### Basic Command
+### Command Line Options
 
-To analyze a project, run the following command:
+To analyze a project, you can use the following command format:
 
 ```bash
-node main.js
+node main.js --path=/path/to/project --exclude-git
 ```
 
-This will analyze the specified project directory and print the results to the terminal.
+- `--path=/path/to/project`: Specifies the path to the project you want to analyze.
+- `--exclude-git`: Optionally exclude the `.git` directory from the analysis.
+
+### Example Command
+
+```bash
+node main.js --path=/path/to/your/project --exclude-git
+```
 
 ### Example Output
 
@@ -85,5 +92,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### Contributing
 
 Feel free to fork this project, make improvements, and submit pull requests. Contributions are always welcome!
-
----
